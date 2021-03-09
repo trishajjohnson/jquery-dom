@@ -1,0 +1,40 @@
+.input-form {
+    /* display: block; */
+    margin: 5px;
+    /* text-align: center; */
+}
+
+body {
+    /* margin: 0 auto; */
+    text-align: center;
+}
+
+#table-head {
+    width: 100%;
+    margin: 0;
+    background-color: lightgrey;
+}
+
+.th {
+    margin: 0;
+    padding: 10px;
+    font-size: 18px;
+}
+
+#tr-header {
+    background-color: lightgrey;
+    width: 100;
+}
+
+table {
+    width: 100%;
+    border-spacing: 0;
+}
+
+button {
+    background-color: #007bff;
+    border-radius: 5px;
+    border: none;
+    padding: 5px;
+    color: white;
+}
